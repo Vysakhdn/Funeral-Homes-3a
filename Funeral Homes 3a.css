@@ -100,7 +100,7 @@ img{
 }
 table {
     height: 500px;
-    width: auto;
+    width: 100%;
     margin-left: 50px;
     border-collapse: separate;
     border-spacing: 0 15px;
